@@ -1,0 +1,9 @@
+export { default as CovidVaccineWeb } from "./covidVaccineWeb";
+export { default as CovidVaccineMobile } from "./covidVaccineMobile";
+export { default as CovidVaccineAddBeneficiariesMobile } from "./covidVaccineAddBeneficiariesMobile";
+export { default as CovidVaccineAddBeneficiariesWeb } from "./covidVaccineAddBeneficiariesWeb";
+export { default as CovidVaccineMenuMobile } from "./covidVaccineMenuMobile";
+export { default as CovidVaccineMenuWeb } from "./covidVaccineMenuWeb";
+export { default as CovidVaccineAppointmentsMobile } from "./covidVaccineAppointmentsMobile";
+export { default as CovidVaccineAppointmentsWeb } from "./covidVaccineAppointmentsWeb";
+export { default as VaccinationCertificate } from "./vaccinationCertificate";
